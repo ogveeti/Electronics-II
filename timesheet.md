@@ -3,7 +3,7 @@
 * 1h - setting up the environment
 * 5h - building and programming
 * 2h - documentation
-### Total: 8h
+### Week total: 8h
 
 ## Week 2:
 ## Week 3:
