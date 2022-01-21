@@ -11,7 +11,7 @@ void setup() {
 void loop() {
   if(!digitalRead(BUTTONPIN)) {
     changeState();
-    //Wait for the switch to be open again
+    /* Wait for the switch to be open again */
     while(1) {
       if(digitalRead(BUTTONPIN)) {
         break;
