@@ -3,7 +3,7 @@
 void setup() {
   pinMode(sensorPin, INPUT);
   Serial.begin(9600);
-  while(!Serial);
+  while(!Serial); //Wait for serial connection to be opened
 }
 
 void loop() {
