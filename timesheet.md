@@ -1,7 +1,7 @@
 # Exercises:
-## Week 1:
+## Week 3, 17.1. - 21.1.
 * 1h - setting up the environment
-* 5h - building and programming
+* 5h - building and programming week 1 exercises
 * 2h - documentation
 ### Weekly total: 8h
 
