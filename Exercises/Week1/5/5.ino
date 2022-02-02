@@ -7,7 +7,6 @@ void setup() {
   pinMode(buttonIn, INPUT);
   digitalWrite(buttonIn, HIGH); //Enable internal pull-up
   DDRD = B00001111; //Set four rightmost bits on port direction register D, this corresponds to pins 0-3 being outputs
- 
 }
 
 void loop() {
