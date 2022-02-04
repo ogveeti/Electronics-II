@@ -9,4 +9,8 @@
 * 2h - building and programming week 2 exercises
 ### Weekly total: 2h
 
+## Week 5, 28.1. - 04.2.
+* 1h - building and programming week 2 exercises
+### Weekly total: 1h
+
 # Course project:
