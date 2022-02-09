@@ -15,7 +15,8 @@
 
 ## Week 6, 04.2. - 11.2.
 * 5h - building and programming week 2 exercises
+* 3h - building and programming week 2 exercises
 * 1h - documentation
-### Weekly total:
+### Weekly total: 9h
 
 # Course project:
