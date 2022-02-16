@@ -19,4 +19,10 @@
 * 1h - documentation
 ### Weekly total: 9h
 
+## Week 7, 11.2. - 18.2.
+* 6,5h - building and programming week 3 exercises
+* 1h - building and programming week 3 exercises
+* 0,5h - documentation
+### Weekly total: 8h
+
 # Course project:
