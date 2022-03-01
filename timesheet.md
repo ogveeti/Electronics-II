@@ -25,4 +25,12 @@
 * 0,5h - documentation
 ### Weekly total: 8h
 
+## Week 8, 18.2. - 25.2.
+### Weekly total: 0h
+
+## Week 9, 25.2. - 2.3.
+* 2,5h - building and programming week 5 exercises
+* 0,5h - documentation
+### Weekly total: 3h
+
 # Course project:
