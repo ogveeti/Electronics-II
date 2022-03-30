@@ -33,4 +33,23 @@
 * 0,5h - documentation
 ### Weekly total: 3h
 
+## Week 11, 12.3. - 18.3.
+1h - building and programming week 6 exercises
+### Weekly total: 1h
+
+## Week 12, 18.3. - 25.3.
+1h - programming and documenting week 6 exercises 
+### Weekly total: 1h
+
+## Week 13, 26.3. - 1.4.
+16h - programming and documenting week 8 exercises 
+### Weekly total: 16h
+
 # Course project:
+## Week 12, 18.3. - 25.3.
+5h - course project preliminary plan and initial systems design 
+### Weekly total: 5h
+
+## Week 13, 26.3. - 1.4.
+
+### Weekly total:
