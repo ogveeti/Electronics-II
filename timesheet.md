@@ -53,3 +53,8 @@
 ## Week 13, 26.3. - 1.4.
 
 ### Weekly total:
+
+## Week 14, 1.4. - 8.4.
+6h - version 0 development and report
+5h - version 1 development
+### Weekly total: 11h
