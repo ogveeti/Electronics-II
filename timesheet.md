@@ -58,3 +58,9 @@
 * 6h - version 0 development and report
 * 5h - version 1 development
 ### Weekly total: 11h
+
+## Week 15, 8.4. - 15.4.
+* 10h - development
+* 4h - debugging and testing
+* 2h - version 1 report
+### Weekly total: 16h
