@@ -64,3 +64,7 @@
 * 4h - debugging and testing
 * 2h - version 1 report
 ### Weekly total: 16h
+
+## Week 16, 15.4. - 22.4.
+* 8h - debugging work
+### Weekly total: 8h
