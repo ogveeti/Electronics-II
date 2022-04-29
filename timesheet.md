@@ -71,6 +71,5 @@
 
 ## Week 17, 22.4. - 29.4.
 * 6h - work on movement detection functionality
-* 1h - planning the demo
-* 1h - drafting the presentation
-### Weekly total: 8h
+* 3h - planning the demo and presentation
+### Weekly total: 9h
