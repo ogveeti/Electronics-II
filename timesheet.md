@@ -68,3 +68,9 @@
 ## Week 16, 15.4. - 22.4.
 * 8h - debugging work
 ### Weekly total: 8h
+
+## Week 17, 22.4. - 29.4.
+* 6h - work on movement detection functionality
+* 1h - planning the demo
+* 1h - drafting the presentation
+### Weekly total: 8h
