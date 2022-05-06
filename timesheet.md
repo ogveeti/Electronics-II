@@ -73,3 +73,8 @@
 * 6h - work on movement detection functionality
 * 3h - planning the demo and presentation
 ### Weekly total: 9h
+
+## Week 18, 29.4. - 6.5
+* 6h - testing the device in a vehicle
+* 2h - work on the presentation materials
+### Weekly total: 8h
