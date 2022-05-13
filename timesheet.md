@@ -78,3 +78,8 @@
 * 6h - testing the device in a vehicle
 * 2h - work on the presentation materials
 ### Weekly total: 8h
+
+## Week 19, 6.5. - 13.5.
+* 5h - testing
+* 3h - demo preparation
+### Weekly total: 8h
