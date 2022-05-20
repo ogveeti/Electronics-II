@@ -83,3 +83,7 @@
 * 5h - testing
 * 3h - demo preparation
 ### Weekly total: 8h
+
+## Week 20, 13.5. - 20.5.
+* 2h - final report
+### Weekly total: 2h
