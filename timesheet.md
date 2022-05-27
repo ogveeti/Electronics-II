@@ -87,3 +87,7 @@
 ## Week 20, 13.5. - 20.5.
 * 2h - final report
 ### Weekly total: 2h
+
+## Week 21, 20.5. - 27.5.
+* 2h - final report
+### Weekly total: 2h
