@@ -9,7 +9,7 @@
 * 2h - building and programming week 2 exercises
 ### Weekly total: 2h
 
-## Week 5, 28.1. - 04.2.
+## Week 5, 28.1. - 4.2.
 * 1h - building and programming week 2 exercises
 ### Weekly total: 1h
 
@@ -33,6 +33,9 @@
 * 0,5h - documentation
 ### Weekly total: 3h
 
+## Week 10, 25.2. - 2.3.
+### Weekly total: 0h
+
 ## Week 11, 12.3. - 18.3.
 * 1h - building and programming week 6 exercises
 ### Weekly total: 1h
@@ -51,8 +54,7 @@
 ### Weekly total: 5h
 
 ## Week 13, 26.3. - 1.4.
-
-### Weekly total:
+### Weekly total: 0h
 
 ## Week 14, 1.4. - 8.4.
 * 6h - version 0 development and report
@@ -91,3 +93,14 @@
 ## Week 21, 20.5. - 27.5.
 * 2h - final report
 ### Weekly total: 2h
+
+## Week 22, 27.5. - 31.5.
+* 1h - final report
+### Weekly total: 1h
+
+# Cumulative hours:
+## Exercises: 49h
+## Course project: 70h
+## Total: 119h
+
+
