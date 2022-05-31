@@ -99,8 +99,8 @@
 ### Weekly total: 1h
 
 # Cumulative hours:
-## Exercises: 49h
-## Course project: 70h
-## Total: 119h
+### Exercises: 49h
+### Course project: 70h
+### Total: 119h
 
 
